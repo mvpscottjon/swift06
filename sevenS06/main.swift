@@ -9,7 +9,7 @@
 import Foundation
 
 
-///******function
+///*********function
 
 var a = 10
 func f1() {
